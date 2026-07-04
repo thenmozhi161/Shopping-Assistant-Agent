@@ -1,0 +1,6 @@
+{
+  "name": "Shopping Assistant Agent",
+  "description": "An interactive full-stack shopping assistant designed to optimize product search prompts, locate deals using real-time Google Search grounding, and organize dynamic shopping lists.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
