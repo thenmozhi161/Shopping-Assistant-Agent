@@ -59,3 +59,8 @@ The server will boot on port `3000` with the customized full-stack Express + Vit
 
 ## 🎨 Creative Architecture
 The application layout is built with standard CSS glassmorphism. It uses custom SVG elements to construct line charts without bulky external libraries, guaranteeing optimal compile speeds, reliable UI execution, and responsive performance on all desktop and mobile screen sizes.
+
+-----
+DEMO LINK:
+https://remix-shopping-assistant-agent-998145370896.asia-southeast1.run.app
+
