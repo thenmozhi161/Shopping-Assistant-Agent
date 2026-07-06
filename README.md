@@ -3,6 +3,9 @@
 An intelligent, full-stack shopping assistant designed to help users search, analyze, compare, and monitor prices of products in a gorgeous **Frosted Glass** workspace. It integrates the **Gemini 3.5 Flash** model with Google Search Grounding to find live, up-to-date deals and product details.
 
 ---
+## Prototype
+https://remix-shopping-assistant-agent-998145370896.asia-southeast1.run.app
+
 
 ## 🌟 Core & Advanced Features
 
